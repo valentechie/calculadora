@@ -8,7 +8,6 @@
 ## 📚 Índice
 - [Introducción](#-introducción)
 - [Demostración](#-demostración)
-- [Requisitos](#-requisitos)
 - [Instalación](#-instalación)
 - [Uso](#-uso)
 - [Resumen de archivos](#-resumen-de-archivos)
@@ -31,13 +30,6 @@ El diseño es responsivo y colorido, pensado para ser amigable y fácil de usar.
 </p>
 
 👉 Prueba la calculadora en línea [aquí](https://valentechie.github.io/calculadora/)
-
----
-
-## 🛠️ Requisitos
-
-- Navegador web moderno (Chrome, Firefox, Edge, Safari, etc.)
-- No requiere instalación de dependencias ni compilación
 
 ---
 
@@ -80,11 +72,11 @@ start index.html      # Windows
 
 ## 📁 Resumen de archivos
 
-- **`index.html`** : Estructura principal de la calculadora y tarjeta de presentación.
-- **`style.css`**  : Estilos visuales y responsivos, colores y formato de botones, inputs y pantalla.
-- **`script.js`**  : Funciones de suma, resta, multiplicación, división y reset.
-- **`media/fondo.png`** : Imagen de fondo de pantalla.
-- **`media/img.png`**   : Imagen dentro de la tarjeta.
+- `index.html` : Estructura principal de la calculadora y tarjeta de presentación.
+- `style.css`  : Estilos visuales y responsivos, colores y formato de botones, inputs y pantalla.
+- `script.js`  : Funciones de suma, resta, multiplicación, división y reset.
+- `media/fondo.png` : Imagen de fondo de pantalla.
+- `media/img.png`   : Imagen dentro de la tarjeta.
 
 ---
 
