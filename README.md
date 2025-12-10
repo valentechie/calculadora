@@ -1,8 +1,7 @@
 # 🔢 Calculadora Web
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Language](https://img.shields.io/badge/JavaScript-yellow)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Language](https://img.shields.io/badge/JavaScript-green)
 
 ---
 
@@ -14,8 +13,6 @@
 - [Uso](#-uso)
 - [Resumen de archivos](#-resumen-de-archivos)
 - [Contexto del proyecto](#-contexto-del-proyecto)
-- [Contribuciones](#-contribuciones)
-- [Licencia](#-licencia)
 
 ---
 
@@ -98,18 +95,3 @@ Este proyecto fue realizado como parte de la formación en el **Club BeeReal vir
 El objetivo es reforzar conocimientos de desarrollo web, lógica de programación y diseño visual con tecnologías modernas y accesibles.
 
 Agradezco a los mentores y compañeras del **Club de Chicas Programadoras** por su apoyo y guía.
-
----
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas!  
-- Haz fork a este repositorio  
-- Abre issues para bugs o nuevas ideas  
-- Envía pull requests para mejorar el proyecto
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
