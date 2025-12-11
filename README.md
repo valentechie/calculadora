@@ -1,7 +1,7 @@
 # 🔢 Calculadora Web
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Language](https://img.shields.io/badge/JavaScript-green)
+![Language](https://img.shields.io/badge/JavaScript-dark_green)
 
 ---
 
